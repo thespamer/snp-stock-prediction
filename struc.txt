@@ -1,0 +1,6 @@
+sp500_llm_tutorial/
+├── sp500_stocks/            <-- Folder containing the downloaded CSV from Kaggle
+│   └── sp500_stocks.csv
+├── requirements.txt         <-- Optional: for dependencies
+└── tutorial_sp500_llm.py    <-- Main script (entire code in one file)
+
